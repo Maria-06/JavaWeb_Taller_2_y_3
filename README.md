@@ -11,7 +11,7 @@
     <ul><h5>1.Cabeza</h5></ul>
         <li><b>Contiene información especifica del contenido del documento.</b></li>
      <strong>
-     <ul>1.Head:</ul>
+         <ul><h5>1.Head:</h5></ul>
         <li>Contain specify about of content of the document</li>
      </strong>
        
