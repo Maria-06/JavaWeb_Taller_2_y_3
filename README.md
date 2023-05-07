@@ -4,8 +4,9 @@ Registro de usuario y script de la conexión a la base de datos
 ##
 ![image](https://user-images.githubusercontent.com/128232148/236692495-c04bb193-58ca-4e37-92a3-f3d8a77b3363.png)
 
-
+<div align="center">
 ![image](https://user-images.githubusercontent.com/128232148/236692560-233e2319-355b-464c-b218-f1a41f3a55b6.png)
+</div>
 <p align="center">
   <img src="http://some_place.com/image.png" />
 </p>
