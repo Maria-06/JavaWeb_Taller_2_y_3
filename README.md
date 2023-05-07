@@ -6,7 +6,7 @@
 <h3>Registro de usuario y script de la conexión a la base de datos</h3>
 <h3>User registration and database connection script</h3>
 
-Dentro de la carpeta webapp; se crea un archivo con extensión <b>.jsp</b>. <ul>Agregar la estructura básica de html :</ul><li><h6><b>1.Head: Contiene información especifica del contenido del documento.</b></h6>y dentro del body se crea un formulario de logueo que contiene dos campos nombre y contraseña  
+<p>Dentro de la carpeta webapp; se crea un archivo con extensión <b>.jsp</b>. <ul>Agregar la estructura básica de html :</ul><li><h6><b>1.Head: Contiene información especifica del contenido del documento.</b></h6>y dentro del body se crea un formulario de logueo que contiene dos campos nombre y contraseña  
 
 ##Registro de usuario y script de la conexión a la base de datos
 Se crea un nuevo archivo con la extensión jsp ,segu
