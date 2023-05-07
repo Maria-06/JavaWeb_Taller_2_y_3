@@ -102,8 +102,7 @@
 ![image](https://user-images.githubusercontent.com/128232148/236701279-d4a0ec28-8cbb-4dda-ae30-3088a2af0022.png)
 
     
-Dentro del folder Java crear carpeta de Util y un archivo llamado Conexión
-![image](https://user-images.githubusercontent.com/128232148/236695904-96dd4704-1258-4339-a197-18ff546980e1.png)
+
     
 Dentro del folder Java crear carpeta de Model y un archivo llamado User en donde se crearan los atributos de la clase usuario
  ![image](https://user-images.githubusercontent.com/128232148/236695990-72cfb225-27a3-4839-bc9b-ae2a06fa83d4.png)
