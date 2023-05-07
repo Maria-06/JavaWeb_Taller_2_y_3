@@ -101,7 +101,7 @@
 </p>
 
     
-Dentro del folder Java crear carpeta de Model y un archivo llamado User en donde se crearan los atributos de la clase usuario
+<h4>Dentro de la carpeta Java crear carpeta de  modelo y un archivo llamado  en donde se crearan los atributos de la clase usuario</h4>
  https://user-images.githubusercontent.com/128232148/236695990-72cfb225-27a3-4839-bc9b-ae2a06fa83d4.png
  
    
