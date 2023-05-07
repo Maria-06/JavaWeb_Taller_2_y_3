@@ -9,19 +9,27 @@
     
 <h4>
     <ul><h3>1.Cabeza</h3>
-        <li>Contiene información especifica del contenido del documento.</li>
+        <li>Contiene la descripción especifica del contenido del documento.</li>
     </ul>
     <ul><strong><i>
         <h3>1.Head:</h3></ul>
-        <li>Contain specify about of content of the document</li>
+        <li>Description contain specify about of content of the document</li>
     </ul></i></strong>   
 </h4>
 <p align="center">
     <img src="https://user-images.githubusercontent.com/128232148/236696283-13bca895-7c7d-4c80-ae86-a335e3905b4e.png">
 <p>
     
-  <p align="center"><img="https://user-images.githubusercontent.com/128232148/236694481-6ad3a602-3850-4747-a506-2b2a1bb88f75.png"></p>
-
+<h4>
+    <ul><h3>1.Body</h3>
+        <li>Contiene el contenido del documento.</li>
+    </ul>
+    <ul><strong><i>
+        <h3>1.Cuerpo:</h3></ul>
+        <li>Contain the content of the document</li>
+    </ul></i></strong>   
+</h4>
+<h5><i>Inside of body is create the form</i> || Dentro del body se crea el formulario:</h5>
 
 ##Registro de usuario y script de la conexión a la base de datos
 Se crea un nuevo archivo con la extensión jsp 
