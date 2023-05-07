@@ -48,10 +48,10 @@
         <h6>Va dentro del cuerpo del documento</h6>
     </ul>
     <ul><strong><i>
-        <h3>3.Footer:</h3></ul>
+        <h3>3.Footer:</h3>
         <li>Add copyrigth</li>
         <li>Links related</li>
-         <h>Va dentro del cuerpo del documento</h6>
+        <h6>Goes inside of body of document</h6>
     </ul></i></strong>   
 </h4>
 
