@@ -8,14 +8,18 @@
     <i>Inside of webapp folder;  create file with extension<strong>.jsp</strong> and basic html structured </h6>
     
 <h4>
-    <ul><h3>1.Cabeza</h3></ul>
+    <ul><h3>1.Cabeza</h3>
         <li><b>Contiene información especifica del contenido del documento.</b></li>
-     <strong>
-         <ul><h3>1.Head:</h3></ul>
+    </ul>
+    <ul><strong><i>
+        <h3>1.Head:</h3></ul>
         <li>Contain specify about of content of the document</li>
-     </strong>
-       
+    </ul></i></strong>   
 </h4>
+
+    
+    ![image](https://user-images.githubusercontent.com/128232148/236696283-13bca895-7c7d-4c80-ae86-a335e3905b4e.png)
+
   
   <p align="center"><img="https://user-images.githubusercontent.com/128232148/236694481-6ad3a602-3850-4747-a506-2b2a1bb88f75.png"></p>
 
