@@ -21,7 +21,7 @@
 
 
 ##Registro de usuario y script de la conexión a la base de datos
-Se crea un nuevo archivo con la extensión jsp ,segu
+Se crea un nuevo archivo con la extensión jsp 
 ![image](https://user-images.githubusercontent.com/128232148/236692495-c04bb193-58ca-4e37-92a3-f3d8a77b3363.png)
 
 <p align="center">
