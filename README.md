@@ -27,12 +27,12 @@
 <p>
     
 <h4>
-    <ul><h3>2.Body</h3>
+    <ul><h3>2.Cuerpo:</h3>
         <li>Contiene el contenido del documento.</li>
         <li>Dentro,se crea el formulario</li>
     </ul>
     <ul><strong><i>
-        <h3>2.Cuerpo:</h3></ul>
+        <h3>2.Body:</h3></ul>
         <li>Contain the content of the document</li>
         <li>Inside, is create the form</li>
     </ul></i></strong>   
