@@ -16,11 +16,10 @@
         <li>Contain specify about of content of the document</li>
     </ul></i></strong>   
 </h4>
-
+<p align="center">
+    <img src="https://user-images.githubusercontent.com/128232148/236696283-13bca895-7c7d-4c80-ae86-a335e3905b4e.png">
+<p>
     
-    ![image](https://user-images.githubusercontent.com/128232148/236696283-13bca895-7c7d-4c80-ae86-a335e3905b4e.png)
-
-  
   <p align="center"><img="https://user-images.githubusercontent.com/128232148/236694481-6ad3a602-3850-4747-a506-2b2a1bb88f75.png"></p>
 
 
