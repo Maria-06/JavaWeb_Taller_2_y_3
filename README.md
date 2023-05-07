@@ -72,6 +72,18 @@
      <img src="https://user-images.githubusercontent.com/128232148/236692510-b9ce1773-329f-4ee1-b1b4-a16817aca87f.png">
 </p>
 
+<h4>Dentro la carpeta <b>webapp</b> se crea otra carpeta <b>css</b> para crear los estilos </h4>
+<h4>Inside of the folder <b>webapp</b> se crea otra carpeta <b>css</b> para crear los estilos </h4>
+<p align="center">
+    <img src="https://user-images.githubusercontent.com/128232148/236699635-9f7e6f7f-745e-4c30-b515-2f909d9d077a.png">
+</p>
+
+<h4>Los estilos son enlazados dentro de la cabeza de la siguiente manera :</h4>
+<h4>The style's are linked inside of the <b>head</b> of the manner next:</h4>
+<p align="center">
+    <img src="https://user-images.githubusercontent.com/128232148/236699422-dc86cf04-298a-4ad1-a9bb-e5c6f0111cbe.png">
+</p>
+ 
 
 <h3>Se Agregan las dependencias al pom.xml para poder conectar la base de datos</h3>
 <p align="center">
