@@ -83,12 +83,23 @@
 <p align="center">
     <img src="https://user-images.githubusercontent.com/128232148/236699422-dc86cf04-298a-4ad1-a9bb-e5c6f0111cbe.png">
 </p>
+
+<h4>Style File || Archivo de estilos</h4>
+<p align=left>
+   <img="https://user-images.githubusercontent.com/128232148/236701573-c5d1de69-8050-4030-991b-d34456535a24.png">
+    
+</p>
+
+
+
  
 
 <h3>Se Agregan las dependencias al pom.xml para poder conectar la base de datos</h3>
 <p align="center">
   <img src="https://user-images.githubusercontent.com/128232148/236692560-233e2319-355b-464c-b218-f1a41f3a55b6.png" />
 </p>
+
+![image](https://user-images.githubusercontent.com/128232148/236701279-d4a0ec28-8cbb-4dda-ae30-3088a2af0022.png)
 
     
 Dentro del folder Java crear carpeta de Util y un archivo llamado Conexión
