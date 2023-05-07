@@ -10,29 +10,48 @@
 <h4>
     <ul><h3>1.Cabeza</h3>
         <li>Contiene la descripción especifica del contenido del documento.</li>
+        <li>Lenguaje para realizar la página</li>
+        <li>Reconocimiento de Caracteres especiales</li>
+        <li>Enlaces de estilos e iconos</i>
     </ul>
     <ul><strong><i>
         <h3>1.Head:</h3></ul>
         <li>Description contain specify about of content of the document</li>
-    </ul></i></strong>   
+        <li>Language to page the make</li>
+        <li>Special caracther recognition</li>
+        <li>Links of Style and icons</li>
+    </ul></i></strong>  
 </h4>
 <p align="center">
     <img src="https://user-images.githubusercontent.com/128232148/236696283-13bca895-7c7d-4c80-ae86-a335e3905b4e.png">
 <p>
     
 <h4>
-    <ul><h3>1.Body</h3>
+    <ul><h3>2.Body</h3>
         <li>Contiene el contenido del documento.</li>
     </ul>
     <ul><strong><i>
-        <h3>1.Cuerpo:</h3></ul>
+        <h3>2.Cuerpo:</h3></ul>
         <li>Contain the content of the document</li>
     </ul></i></strong>   
 </h4>
 <h5><i>Inside of body is create the form</i> || Dentro del body se crea el formulario:</h5>
+<p align=center>
+    <img src="https://user-images.githubusercontent.com/128232148/236697246-c6b64eeb-2892-4e20-b9e5-dbbc3da84b07.png">
+</p>
 
-##Registro de usuario y script de la conexión a la base de datos
-Se crea un nuevo archivo con la extensión jsp 
+<h4>
+    <ul><h3>2.Body</h3>
+        <li>Contiene el contenido del documento.</li>
+    </ul>
+    <ul><strong><i>
+        <h3>2.Cuerpo:</h3></ul>
+        <li>Contain the content of the document</li>
+    </ul></i></strong>   
+</h4>
+
+
+<h3>Form of Sign in</h3>
 ![image](https://user-images.githubusercontent.com/128232148/236692495-c04bb193-58ca-4e37-92a3-f3d8a77b3363.png)
 
 <p align="center">
