@@ -67,6 +67,12 @@
     <img src="https://user-images.githubusercontent.com/128232148/236698169-b0f1c48d-a1ae-487a-ba3d-84a6862f46f9.png">
 </p>
 
+<h3 align="center">Result: Form of Sign Up</h3>
+<p align="center">
+    <img src="">
+</p>
+
+
 <h3>Se Agregan las dependencias al pom.xml para poder conectar la base de datos</h3>
 <p align="center">
   <img src="https://user-images.githubusercontent.com/128232148/236692560-233e2319-355b-464c-b218-f1a41f3a55b6.png" />
