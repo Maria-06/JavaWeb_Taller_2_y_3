@@ -57,11 +57,15 @@
 
 <h3>Result: Form of Sign in</h3>
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/128232148/236692560-233e2319-355b-464c-b218-f1a41f3a55b6.png" />
+    <img src="https://user-images.githubusercontent.com/128232148/236692510-b9ce1773-329f-4ee1-b1b4-a16817aca87f.png">
 </p>
 
 
-![image](https://user-images.githubusercontent.com/128232148/236692510-b9ce1773-329f-4ee1-b1b4-a16817aca87f.png)
+<h3>Se Agregan las dependencias al pom.xml para poder conectar la base de datos</h3>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/128232148/236692560-233e2319-355b-464c-b218-f1a41f3a55b6.png" />
+</p>
+
     
 Dentro del folder Java crear carpeta de Util y un archivo llamado Conexión
 ![image](https://user-images.githubusercontent.com/128232148/236695904-96dd4704-1258-4339-a197-18ff546980e1.png)
