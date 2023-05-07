@@ -6,8 +6,8 @@ Registro de usuario y script de la conexión a la base de datos
 
 
 ![image](https://user-images.githubusercontent.com/128232148/236692560-233e2319-355b-464c-b218-f1a41f3a55b6.png)
-![A cute kitten](http://placekitten.com/200/300?style=centerme)
-img[src$="centerme"] { display:block; margin: 0 auto; }
-
+<p align="center">
+  <img src="http://some_place.com/image.png" />
+</p>
 
 ![image](https://user-images.githubusercontent.com/128232148/236692510-b9ce1773-329f-4ee1-b1b4-a16817aca87f.png)
