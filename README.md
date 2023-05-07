@@ -51,19 +51,15 @@
         <h3>3.Footer:</h3></ul>
         <li>Add copyrigth</li>
         <li>Links related</li>
-          <h>Va dentro del cuerpo del documento</h6>
+         <h>Va dentro del cuerpo del documento</h6>
     </ul></i></strong>   
 </h4>
-<p align="center">
-    <img src="https://user-images.githubusercontent.com/128232148/236697687-763da9fe-6f05-4ac8-8ef2-d0beadf7f30e.png">
-</p>
 
 <h3>Result: Form of Sign in</h3>
-![image](https://user-images.githubusercontent.com/128232148/236692495-c04bb193-58ca-4e37-92a3-f3d8a77b3363.png)
-
 <p align="center">
   <img src="https://user-images.githubusercontent.com/128232148/236692560-233e2319-355b-464c-b218-f1a41f3a55b6.png" />
 </p>
+
 
 ![image](https://user-images.githubusercontent.com/128232148/236692510-b9ce1773-329f-4ee1-b1b4-a16817aca87f.png)
     
@@ -73,6 +69,10 @@ Dentro del folder Java crear carpeta de Util y un archivo llamado Conexión
 Dentro del folder Java crear carpeta de Model y un archivo llamado User en donde se crearan los atributos de la clase usuario
  ![image](https://user-images.githubusercontent.com/128232148/236695990-72cfb225-27a3-4839-bc9b-ae2a06fa83d4.png)
  
+ 
+ <p align="center">
+    <img src="https://user-images.githubusercontent.com/128232148/236697687-763da9fe-6f05-4ac8-8ef2-d0beadf7f30e.png">
+</p>
    
 
 
