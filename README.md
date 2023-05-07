@@ -3,10 +3,16 @@
 
 # JavaWeb_Taller_2_y_3
 
-<h3>Registro de usuario y script de la conexión a la base de datos</h3>
-<h3>User registration and database connection script</h3>
+<h4>Registro de usuario y script de la conexión a la base de datos</h4>
+<h4>User registration and database connection script</h4>
 
-<p>Dentro de la carpeta webapp; se crea un archivo con extensión <b>.jsp</b>. <ul>Agregar la estructura básica de html :</ul><li><h6><b>1.Head: Contiene información especifica del contenido del documento.</b></h6>y dentro del body se crea un formulario de logueo que contiene dos campos nombre y contraseña  
+<h3>Dentro de la carpeta webapp; se crea un archivo con extensión <b>.jsp</b>.
+    <ul>Agregar la estructura básica de html :</ul>
+       <li><b>1.Head: Contiene información especifica del contenido del documento.</b></li>
+</h3>
+  
+  <p align="center"><img="https://user-images.githubusercontent.com/128232148/236694481-6ad3a602-3850-4747-a506-2b2a1bb88f75.png"></p>
+
 
 ##Registro de usuario y script de la conexión a la base de datos
 Se crea un nuevo archivo con la extensión jsp ,segu
