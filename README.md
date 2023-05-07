@@ -90,12 +90,12 @@
      <img src="https://user-images.githubusercontent.com/128232148/236692510-b9ce1773-329f-4ee1-b1b4-a16817aca87f.png">
 </p>
 
-<h3>Realizar Conexión a la base de datos</h3>
-<h3>Make conection to database</h3>
+<h4>Realizar Conexión a la base de datos</h4>
+<h4>Make conection to database</h4>
 
     
-<h3>Como primera medida; Agregar las dependencias al archivo gestor <b>pom.xml</b> para poder conectar la base de datos</h3>
-<h3><b><i>As a first measure; Added the dependencies to the file manager <b>pom.xml</b> to be able to connect the database</i></b></h3>
+<h4>Como primera medida; Agregar las dependencias al archivo gestor <b>pom.xml</b> para poder conectar la base de datos</h4>
+<h4><b><i>As a first measure; Added the dependencies to the file manager <b>pom.xml</b> to be able to connect the database</i></b></h4>
 <p align="center">
   <img src="https://user-images.githubusercontent.com/128232148/236692560-233e2319-355b-464c-b218-f1a41f3a55b6.png" />
 </p>
