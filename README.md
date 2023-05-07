@@ -29,29 +29,36 @@
 <h4>
     <ul><h3>2.Body</h3>
         <li>Contiene el contenido del documento.</li>
+        <li>Dentro,se crea el formulario</li>
     </ul>
     <ul><strong><i>
         <h3>2.Cuerpo:</h3></ul>
         <li>Contain the content of the document</li>
+        <li>Inside, is create the form</li>
     </ul></i></strong>   
 </h4>
-<h5><i>Inside of body is create the form</i> || Dentro del body se crea el formulario:</h5>
 <p align=center>
     <img src="https://user-images.githubusercontent.com/128232148/236697246-c6b64eeb-2892-4e20-b9e5-dbbc3da84b07.png">
 </p>
 
 <h4>
-    <ul><h3>2.Body</h3>
-        <li>Contiene el contenido del documento.</li>
+    <ul><h3>3.Pie de Página</h3>
+        <li>Se agregan los derechos de autor.</li>
+        <li>Enlaces relacionados</li>
+        <h6>Va dentro del cuerpo del documento</h6>
     </ul>
     <ul><strong><i>
-        <h3>2.Cuerpo:</h3></ul>
-        <li>Contain the content of the document</li>
+        <h3>3.Footer:</h3></ul>
+        <li>Add copyrigth</li>
+        <li>Links related</li>
+          <h>Va dentro del cuerpo del documento</h6>
     </ul></i></strong>   
 </h4>
+<p align="center">
+    <img src="https://user-images.githubusercontent.com/128232148/236697687-763da9fe-6f05-4ac8-8ef2-d0beadf7f30e.png">
+</p>
 
-
-<h3>Form of Sign in</h3>
+<h3>Result: Form of Sign in</h3>
 ![image](https://user-images.githubusercontent.com/128232148/236692495-c04bb193-58ca-4e37-92a3-f3d8a77b3363.png)
 
 <p align="center">
