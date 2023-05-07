@@ -3,12 +3,12 @@
 
 # JavaWeb_Taller_2_y_3
 
-<h6>Registro de usuario y script de la conexión a la base de datos</h6>
-<h6>User registration and database connection script</h6>
+<h6><i>Registro de usuario y script de la conexión a la base de datos</i></h6>
+<h6><i>User registration and database connection script</i></h6>
 
 <p>Dentro de la carpeta webapp; se crea un archivo con extensión <strong>.jsp</strong> y la estructura básica de html.</p>
 <h5>
-    <ul>1.Cabeza</ul>
+    <ul><h5>1.Cabeza</h5></ul>
         <li><b>Contiene información especifica del contenido del documento.</b></li>
      <strong>
      <ul>1.Head:</ul>
