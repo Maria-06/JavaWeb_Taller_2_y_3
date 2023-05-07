@@ -57,7 +57,7 @@
 
 <h3 align="center">Result: Form of Sign in</h3>
 <p align="center">
-    <img src="https://user-images.githubusercontent.com/128232148/236692510-b9ce1773-329f-4ee1-b1b4-a16817aca87f.png">
+   <img src="https://user-images.githubusercontent.com/128232148/236699329-7a37827f-1b16-4659-9684-4851c9f5e529.png">
 </p>
 
 <h4>La estructura del html es similar para crear el formulario de registro,sin embargo, es necesario agregar otras etiquetas y cajas de texto,adicional,estos elementos son agregados dentro de un contenedor con una clase, la cual, será utilizada para llamar los elementos desde otro archivo y ajustar los estilos.</h4>
@@ -69,7 +69,7 @@
 
 <h3 align="center">Result: Form of Sign Up</h3>
 <p align="center">
-    <img src="https://user-images.githubusercontent.com/128232148/236699270-f310d3b8-8b91-429c-a933-2c87b6e6fdde.png">
+     <img src="https://user-images.githubusercontent.com/128232148/236692510-b9ce1773-329f-4ee1-b1b4-a16817aca87f.png">
 </p>
 
 
