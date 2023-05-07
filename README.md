@@ -7,15 +7,15 @@
 <h6>Dentro de la carpeta webapp; se crea un archivo con extensión <strong>.jsp</strong> y la estructura básica de html.||
     <i>Inside of webapp folder;  create file with extension<strong>.jsp</strong> and basic html structured </h6>
     
-<h5>
-    <ul><h5>1.Cabeza</h5></ul>
+<h4>
+    <ul><h3>1.Cabeza</h3></ul>
         <li><b>Contiene información especifica del contenido del documento.</b></li>
      <strong>
-         <ul><h5>1.Head:</h5></ul>
+         <ul><h3>1.Head:</h3></ul>
         <li>Contain specify about of content of the document</li>
      </strong>
        
-</h5>
+</h4>
   
   <p align="center"><img="https://user-images.githubusercontent.com/128232148/236694481-6ad3a602-3850-4747-a506-2b2a1bb88f75.png"></p>
 
