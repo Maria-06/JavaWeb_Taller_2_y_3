@@ -9,7 +9,7 @@
     
 <h4>
     <ul><h3>1.Cabeza</h3>
-        <li><b>Contiene información especifica del contenido del documento.</b></li>
+        <li>Contiene información especifica del contenido del documento.</li>
     </ul>
     <ul><strong><i>
         <h3>1.Head:</h3></ul>
