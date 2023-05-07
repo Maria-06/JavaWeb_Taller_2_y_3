@@ -1,8 +1,15 @@
+<p>Despues de haber creado la estructura en el taller1 JavaWeb.</p>
+<p>After having created structure of workshoop1 JavaWeb</p>
+
 # JavaWeb_Taller_2_y_3
 
-<h3>>Registro de usuario y script de la conexión a la base de datos</h3>
+<h3>Registro de usuario y script de la conexión a la base de datos</h3>
+<h3>User registration and database connection script</h3>
+
+Dentro de la carpeta webapp; se crea un archivo con extensión <b>.jsp</b>. <ul>Agregar la estructura básica de html :</ul><li><h6><b>1.Head: Contiene información especifica del contenido del documento.</b></h6>y dentro del body se crea un formulario de logueo que contiene dos campos nombre y contraseña  
 
 ##Registro de usuario y script de la conexión a la base de datos
+Se crea un nuevo archivo con la extensión jsp ,segu
 ![image](https://user-images.githubusercontent.com/128232148/236692495-c04bb193-58ca-4e37-92a3-f3d8a77b3363.png)
 
 <p align="center">
