@@ -4,8 +4,8 @@
 
 <h6><i>User registration and database connection script</i> || Registro de usuario y script de la conexión a la base de datos </h6>
 
-<p>Dentro de la carpeta webapp; se crea un archivo con extensión <strong>.jsp</strong> y la estructura básica de html.|| </p>
-<p><i>Inside of webapp folder;  create file with extension<strong>.jsp</strong> and basic html structured </p>
+<h6>Dentro de la carpeta webapp; se crea un archivo con extensión <strong>.jsp</strong> y la estructura básica de html.||
+    <i>Inside of webapp folder;  create file with extension<strong>.jsp</strong> and basic html structured </h6>
     
 <h5>
     <ul><h5>1.Cabeza</h5></ul>
