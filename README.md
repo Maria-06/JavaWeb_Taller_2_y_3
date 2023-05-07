@@ -90,8 +90,8 @@
      <img src="https://user-images.githubusercontent.com/128232148/236692510-b9ce1773-329f-4ee1-b1b4-a16817aca87f.png">
 </p>
 
-<h4>Realizar Conexión a la base de datos</h4>
-<h4>Make conection to database</h4>
+<h3 align="center">Realizar Conexión a la base de datos</h3>
+<h3 align="center"><b><i>Make conection to database</b></i></h3>
 
     
 <h4>Como primera medida; Agregar las dependencias al archivo gestor <b>pom.xml</b> para poder conectar la base de datos</h4>
