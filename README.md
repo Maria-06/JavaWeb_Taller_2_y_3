@@ -86,8 +86,8 @@
 
 <h4>Style File || Archivo de estilos</h4>
 <p align=left>
-   <img="https://user-images.githubusercontent.com/128232148/236701573-c5d1de69-8050-4030-991b-d34456535a24.png">
-    
+   <img src="https://user-images.githubusercontent.com/128232148/236701573-c5d1de69-8050-4030-991b-d34456535a24.png">
+   <img src="https://user-images.githubusercontent.com/128232148/236701816-87c7ed65-2ea5-4809-aa89-3624175035bf.png"> 
 </p>
 
 
