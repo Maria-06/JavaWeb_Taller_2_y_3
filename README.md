@@ -1,11 +1,12 @@
-<p>Despues de haber creado la estructura en el taller1 JavaWeb.</p>
-<p>After having created structure of workshoop1 JavaWeb</p>
+<p><i>After having created structure of workshoop1 JavaWeb</i>  || Despues de haber creado la estructura en el taller1 JavaWeb.</p>
 
 # JavaWeb_Taller_2_y_3
 
-<h6>Registro de usuario y script de la conexión a la base de datos || <i>User registration and database connection script</i></h6>
+<h6><i>User registration and database connection script</i> || Registro de usuario y script de la conexión a la base de datos </h6>
 
-<p>Dentro de la carpeta webapp; se crea un archivo con extensión <strong>.jsp</strong> y la estructura básica de html.</p>
+<p>Dentro de la carpeta webapp; se crea un archivo con extensión <strong>.jsp</strong> y la estructura básica de html.|| </p>
+<p><i>Inside of webapp folder;  create file with extension<strong>.jsp</strong> and basic html structured </p>
+    
 <h5>
     <ul><h5>1.Cabeza</h5></ul>
         <li><b>Contiene información especifica del contenido del documento.</b></li>
