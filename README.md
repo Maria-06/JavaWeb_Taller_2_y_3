@@ -100,18 +100,10 @@
   <img src="https://user-images.githubusercontent.com/128232148/236692560-233e2319-355b-464c-b218-f1a41f3a55b6.png" />
 </p>
 
-![image](https://user-images.githubusercontent.com/128232148/236701279-d4a0ec28-8cbb-4dda-ae30-3088a2af0022.png)
-
-    
-
     
 Dentro del folder Java crear carpeta de Model y un archivo llamado User en donde se crearan los atributos de la clase usuario
  https://user-images.githubusercontent.com/128232148/236695990-72cfb225-27a3-4839-bc9b-ae2a06fa83d4.png
  
- 
- <p align="center">
-    <img src="https://user-images.githubusercontent.com/128232148/236697687-763da9fe-6f05-4ac8-8ef2-d0beadf7f30e.png">
-</p>
    
 
 
