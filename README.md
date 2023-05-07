@@ -29,3 +29,14 @@ Se crea un nuevo archivo con la extensión jsp ,segu
 </p>
 
 ![image](https://user-images.githubusercontent.com/128232148/236692510-b9ce1773-329f-4ee1-b1b4-a16817aca87f.png)
+    
+Dentro del folder Java crear carpeta de Util y un archivo llamado Conexión
+![image](https://user-images.githubusercontent.com/128232148/236695904-96dd4704-1258-4339-a197-18ff546980e1.png)
+    
+Dentro del folder Java crear carpeta de Model y un archivo llamado User en donde se crearan los atributos de la clase usuario
+ ![image](https://user-images.githubusercontent.com/128232148/236695990-72cfb225-27a3-4839-bc9b-ae2a06fa83d4.png)
+ 
+   
+
+
+
