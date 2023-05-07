@@ -6,10 +6,11 @@
 <h4>Registro de usuario y script de la conexión a la base de datos</h4>
 <h4>User registration and database connection script</h4>
 
-<h3>Dentro de la carpeta webapp; se crea un archivo con extensión <b>.jsp</b>.
-    <ul>Agregar la estructura básica de html :</ul>
-       <li><b>1.Head: Contiene información especifica del contenido del documento.</b></li>
-</h3>
+<p>Dentro de la carpeta webapp; se crea un archivo con extensión <strong>.jsp</strong> y la estructura básica de html.</p>
+<h5>
+    <ul>1.Head:</ul>
+       <li><b>Contiene información especifica del contenido del documento.</b></li>
+</h5>
   
   <p align="center"><img="https://user-images.githubusercontent.com/128232148/236694481-6ad3a602-3850-4747-a506-2b2a1bb88f75.png"></p>
 
