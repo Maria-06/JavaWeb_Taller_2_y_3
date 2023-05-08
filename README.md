@@ -105,13 +105,24 @@
 <h4><b><i>Inside the Java folder, create a folder called model and a file called user where the attributes of the user class will be created, an empty constructor, a constructor with parameters and accessor methods.</b><i></h4>
 <p align="left">
     <img src="https://user-images.githubusercontent.com/128232148/236708734-b0ca4302-6d61-4e41-90de-81c5c1035885.png">
+    
+    <h5>The Attributes || Los atributos</h5>
+    <img src="https://user-images.githubusercontent.com/128232148/236709753-679e420f-a0fc-4187-ab0d-a8d3a9138252.png">
+     <h5>Void constructor || Constructor vacio</h5>
+     <img src="https://user-images.githubusercontent.com/128232148/236710238-0d0a7da5-2df7-4fab-acd0-6dfa057c2414.png">
+    <h5>Constructor with parameters || Constructor con parámetros</h5>
+    <img src="">
+    <h5>Accesor Methods || Metodos Accesores</h5>
+    <img src="">
+
 </p>
 <h4>Dentro de la carpeta Java crear carpeta de  util y un archivo llamado BDConnection en donde se crearan la Conexión </h4>
 <h4>Inside the Java folder, create a folder called util and a file called DBConection where is create Conexión</h4>
 <p align="left">
     <img src="https://user-images.githubusercontent.com/128232148/236708741-2fa8cc1d-a556-42e0-93ac-7c087efbe817.png">
 </p>
-    
+
+
 
 
 
