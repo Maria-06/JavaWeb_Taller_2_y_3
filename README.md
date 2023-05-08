@@ -92,6 +92,13 @@
 
 <h3 align="center">Realizar Conexión a la base de datos</h3>
 <h3 align="center"><b><i>Make conection to database</b></i></h3>
+    
+<h3>Crear script</h3>
+<h3><b><i>Create script</i></b></h3>
+<p>
+  <img src="https://user-images.githubusercontent.com/128232148/236725686-c78c9f3b-a064-4a78-84c8-ffb5dd939404.png">
+</p>
+
 
     
 <h4>Como primera medida; Agregar las dependencias al archivo gestor <b>pom.xml</b> para poder conectar la base de datos</h4>
