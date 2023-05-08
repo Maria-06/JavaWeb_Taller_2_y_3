@@ -104,7 +104,7 @@
 <h4>Dentro de la carpeta Java crear carpeta de  modelo y un archivo llamado usuario en donde se crearan: </h4>
 <h4><b><i>Inside the Java folder, create a folder called model and a file called user where will be created:</b><i></h4>
  
-<p align="left">
+<p align="center">
     <img src="https://user-images.githubusercontent.com/128232148/236708734-b0ca4302-6d61-4e41-90de-81c5c1035885.png">
 </p>
     
