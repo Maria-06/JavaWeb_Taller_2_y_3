@@ -149,11 +149,15 @@
 
 <h4>Se crea un método estatico mediante <i><b>pool</b>(conjunto de recursos  ya almacenados para realizar conexiones)</i>,en el se acceden a los atributos y collecciones necesarias para realizar la conexión.</h4>
 <h4>It's create a method static through <i><b>pool</b>(set of resources already stored to make connections)</i>,in the is to accces the attributes y collection need for realice the conection</h4>
-<img src="https://user-images.githubusercontent.com/128232148/236713697-dfa736b2-899b-4eb1-af28-16c0c14e1204.png">
+<p align="center">
+    <img src="https://user-images.githubusercontent.com/128232148/236713697-dfa736b2-899b-4eb1-af28-16c0c14e1204.png">
+</p>
     
 <h4>Crear método estatico para retornar la conexión</h4>
 <h4>Create méthod static for return the connection</h4>
-<img src="https://user-images.githubusercontent.com/128232148/236713704-c58d5aa6-d195-4c10-8405-ebb312b80065.png">
+<p align="center">
+    <img src="https://user-images.githubusercontent.com/128232148/236713704-c58d5aa6-d195-4c10-8405-ebb312b80065.png">
+</p>
 
 
 
