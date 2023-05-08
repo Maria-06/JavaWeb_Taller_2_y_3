@@ -119,7 +119,7 @@
         <img src="https://user-images.githubusercontent.com/128232148/236710238-0d0a7da5-2df7-4fab-acd0-6dfa057c2414.png">
     </p>
     <p align="center">
-    
+        <img src="https://user-images.githubusercontent.com/128232148/236710238-0d0a7da5-2df7-4fab-acd0-6dfa057c2414.png">
     </p>
     <img src="">
     <h5>Accesor Methods || Metodos Accesores</h5>
