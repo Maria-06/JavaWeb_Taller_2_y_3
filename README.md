@@ -126,8 +126,6 @@
         <img src="https://user-images.githubusercontent.com/128232148/236710238-0d0a7da5-2df7-4fab-acd0-6dfa057c2414.png">
     </p>
     
-
-</p>
 <h4>Dentro de la carpeta Java crear carpeta de  util y un archivo llamado BDConnection en donde se crearan la Conexión </h4>
 <h4>Inside the Java folder, create a folder called util and a file called DBConection where is create Conexión</h4>
 <p align="left">
