@@ -140,9 +140,7 @@
 <p align="left">
     <img src="https://user-images.githubusercontent.com/128232148/236708741-2fa8cc1d-a556-42e0-93ac-7c087efbe817.png">
 </p>
-<p align="left">
-    <img src="https://user-images.githubusercontent.com/128232148/236711688-9ae6684e-8834-45cc-a4ff-1aa045040f01.png">
-</p>
+
 
 
 
