@@ -110,26 +110,33 @@
     
 <h4>The Attributes || Los atributos</h4>
 <p align="center">
-    <img src="https://user-images.githubusercontent.com/128232148/236709753-679e420f-a0fc-4187-ab0d-a8d3a9138252.png">
+    <img src="https://user-images.githubusercontent.com/128232148/236712845-6dde8ced-0149-42b4-896f-e90ca863e291.png">
 </p>
     
 <h4>Void constructor || Constructor vacio</h4>
 <p align="center">
-   <img src="https://user-images.githubusercontent.com/128232148/236710238-0d0a7da5-2df7-4fab-acd0-6dfa057c2414.png">
+   <img src="https://user-images.githubusercontent.com/128232148/236712867-64bc5ce5-9a4b-4ffe-bf5a-09474c4bf3e9.png">
 </p>
     
 <h4>Constructor with parameters || Constructor con parámetros</h4>
 <p align="center">
-   <img src="https://user-images.githubusercontent.com/128232148/236710238-0d0a7da5-2df7-4fab-acd0-6dfa057c2414.png">
+   <img src="https://user-images.githubusercontent.com/128232148/236712882-3455c08e-99d3-4be0-a1aa-7241fce1ff4f.png">
 </p>
     
 <h4>Accesor Methods || Metodos Accesores</h4>
 <p align="center">
-   <img src="https://user-images.githubusercontent.com/128232148/236710238-0d0a7da5-2df7-4fab-acd0-6dfa057c2414.png">
+   <img src="https://user-images.githubusercontent.com/128232148/236713013-c21b0eb9-ba53-4967-974a-bab77c4192da.png">
 </p>
+    
+<h4>Metodo String</h4>
+<p align="center">
+   <img src="https://user-images.githubusercontent.com/128232148/236713161-9ce9234a-b353-4768-96f5-ecbf587b93ac.png">
+</p>
+    
     
 <h4>Dentro de la carpeta Java crear carpeta de  util y un archivo llamado BDConnection en donde se crearan la Conexión </h4>
 <h4>Inside the Java folder, create a folder called util and a file called DBConection where is create Conexión</h4>
+    
 <p align="left">
     <img src="https://user-images.githubusercontent.com/128232148/236708741-2fa8cc1d-a556-42e0-93ac-7c087efbe817.png">
 </p>
