@@ -101,15 +101,19 @@
 </p>
 
     
-<h4>Dentro de la carpeta Java crear carpeta de  modelo y un archivo llamado usuario en donde se crearan los atributos de la clase usuario</h4>
-<h4>Inside the Java folder, create a folder called model and a file called user where the attributes of the user class will be created, an empty constructor, a constructor with parameters and accessor methods </h4>
+<h4>Dentro de la carpeta Java crear carpeta de  modelo y un archivo llamado usuario en donde se crearan los atributos, el metodo constructor vacio, el constructor con parámetros y los metodos accesores de la clase usuario</h4>
+<h4>Inside the Java folder, create a folder called model and a file called user where the attributes of the user class will be created, an empty constructor, a constructor with parameters and accessor methods.</h4>
 <p align="left">
     <img src="https://user-images.githubusercontent.com/128232148/236708734-b0ca4302-6d61-4e41-90de-81c5c1035885.png">
 </p>
+<h4>Dentro de la carpeta Java crear carpeta de  util y un archivo llamado BDConnection en donde se crearan la Conexión </h4>
+<h4>Inside the Java folder, create a folder called util and a file called DBConection where is create Conexión</h4>
 <p align="left">
     <img src="https://user-images.githubusercontent.com/128232148/236708741-2fa8cc1d-a556-42e0-93ac-7c087efbe817.png">
 </p>
     
+
+
 
 
 
